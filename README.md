@@ -1,5 +1,5 @@
 # Nanite
-A bare bones, unopinionated, archetype for microservices based on [rapidoid](http://www.rapidoid.org/http-fast.html).
+A bare bones, slightly opinionated, archetype for microservices based on [rapidoid](http://www.rapidoid.org/http-fast.html).
 
 # Why?
 Rapidoid provides a clean, new, api using modern Java idioms for the web that help you write code w/o being hindered by large frameworks.
