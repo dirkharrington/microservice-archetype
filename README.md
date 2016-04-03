@@ -1,4 +1,4 @@
-# microservice-archetype
+# Nanite
 A simple generator for microservices using all the cool toys: rapidoid, slf4j + logback, and more
 
 # Usage
